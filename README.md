@@ -2,7 +2,7 @@
 
 A cinematic, recruiter-friendly portfolio for Manivel R, a Computer Science (AI & ML) undergraduate focused on ethical hacking, web security, CTFs, and AI-assisted defensive security.
 
-**Live site:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io/)
+**Live site:** [manivelx.github.io](https://manivelx.github.io/)
 
 ## What improved
 
@@ -45,6 +45,6 @@ Then visit `http://localhost:8000`.
 ## Contact
 
 - Email: [mr.manivel.r@gmail.com](mailto:mr.manivel.r@gmail.com)
-- GitHub: [manivel-cyber-ai](https://github.com/manivel-cyber-ai)
-- LinkedIn: [mr-manivel-r](https://linkedin.com/in/mr-manivel-r)
+- GitHub: [manivelx](https://github.com/manivelx)
+- LinkedIn: [mr-manivel-r](https://linkedin.com/in/manivelr)
 - Location: Tiruchirappalli, Tamil Nadu
